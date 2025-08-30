@@ -3,6 +3,7 @@
 ## Objective
 Implement GitOps by syncing Kubernetes manifests directly from a GitHub repository using ArgoCD on Minikube.
 
+## loom video: https://www.loom.com/share/f2a737a2a30d4e5c9c54bb504842f11b?sid=1a6e2d5b-b2c9-408f-b11b-902d838592a5
 ---
 
 ## Tools
