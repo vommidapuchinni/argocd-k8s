@@ -63,15 +63,3 @@ Watch the GitOps workflow in action:
 [![GitOps Demo Video](screenshots/video-thumbnail.png)](https://www.loom.com/share/f2a737a2a30d4e5c9c54bb504842f11b?sid=1a6e2d5b-b2c9-408f-b11b-902d838592a5)
 
 ---
-
-## Deliverables
-
-- Deployment manifests (YAML files)  
-- ArgoCD screenshots showing sync status  
-- Video demo link  
-
----
-
-## Resume Line
-> Implemented GitOps pipeline using ArgoCD and Kubernetes.
-
