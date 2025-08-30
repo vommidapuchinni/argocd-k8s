@@ -15,7 +15,7 @@ Implement GitOps by syncing Kubernetes manifests directly from a GitHub reposito
 ---
 
 ## INFRASTRUCTURE DIAGRAM
-![Infra] (screenshots/Infrastructure.png)
+![Infra](screenshots/Infrastructure.png)
 
 ---
 
